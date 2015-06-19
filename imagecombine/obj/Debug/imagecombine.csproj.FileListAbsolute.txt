@@ -1,0 +1,56 @@
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\bin\Debug\imagecombine.exe.config
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\bin\Debug\imagecombine.exe
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\bin\Debug\imagecombine.pdb
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\MainWindow.baml
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\MainWindow.g.cs
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\App.g.cs
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine_MarkupCompile.cache
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.g.resources
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.Properties.Resources.resources
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.csproj.GenerateResource.Cache
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.exe
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.pdb
+c:\users\jf\documents\visual studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.csprojResolveAssemblyReference.cache
+C:\Users\JF\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine_Content.g.cs
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\bin\Debug\imagecombine.exe.config
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\bin\Debug\imagecombine.exe
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\bin\Debug\imagecombine.pdb
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\MainWindow.baml
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\App.g.cs
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine_Content.g.cs
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine_MarkupCompile.cache
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.g.resources
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2013\Projects\imagecombine\imagecombine\obj\Debug\imagecombine.csproj.GenerateResource.Cache
+F:\imagecombine\imagecombine\bin\Debug\imagecombine.exe.config
+F:\imagecombine\imagecombine\obj\Debug\imagecombine.exe
+F:\imagecombine\imagecombine\obj\Debug\imagecombine.pdb
+F:\imagecombine\imagecombine\bin\Debug\imagecombine.exe
+F:\imagecombine\imagecombine\bin\Debug\imagecombine.pdb
+F:\imagecombine\imagecombine\obj\Debug\imagecombine.csprojResolveAssemblyReference.cache
+F:\imagecombine\imagecombine\obj\Debug\MainWindow.baml
+F:\imagecombine\imagecombine\obj\Debug\MainWindow.g.cs
+F:\imagecombine\imagecombine\obj\Debug\App.g.cs
+F:\imagecombine\imagecombine\obj\Debug\imagecombine_Content.g.cs
+F:\imagecombine\imagecombine\obj\Debug\imagecombine_MarkupCompile.cache
+F:\imagecombine\imagecombine\obj\Debug\imagecombine.g.resources
+F:\imagecombine\imagecombine\obj\Debug\imagecombine.Properties.Resources.resources
+F:\imagecombine\imagecombine\obj\Debug\imagecombine.csproj.GenerateResource.Cache
+C:\Users\Joe\Desktop\imagecombine\imagecombine\bin\Debug\imagecombine.exe.config
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine.exe
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine.pdb
+C:\Users\Joe\Desktop\imagecombine\imagecombine\bin\Debug\imagecombine.exe
+C:\Users\Joe\Desktop\imagecombine\imagecombine\bin\Debug\imagecombine.pdb
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine.csprojResolveAssemblyReference.cache
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\MainWindow.baml
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\MainWindow.g.cs
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\App.g.cs
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine_Content.g.cs
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine_MarkupCompile.cache
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine.g.resources
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine.Properties.Resources.resources
+C:\Users\Joe\Desktop\imagecombine\imagecombine\obj\Debug\imagecombine.csproj.GenerateResource.Cache
